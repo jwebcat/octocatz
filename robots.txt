@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jwebcat.github.com/octocatz/sitemap.xml 
